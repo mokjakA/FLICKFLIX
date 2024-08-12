@@ -5,8 +5,6 @@ A new Flutter project.
 alt = "메인 화면" style="width:30%; height:auto;">
 <img src = "https://github.com/user-attachments/assets/6d0b7866-a4e1-40c7-911f-481a5f2381a4"
 alt = "상세 화면" style="width:30%; height:auto;">
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-13 at 00 24 43](https://github.com/user-attachments/assets/bfe42d1a-5d7b-446d-865c-d94d48dcd11d)
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-13 at 00 24 50](https://github.com/user-attachments/assets/6d0b7866-a4e1-40c7-911f-481a5f2381a4)
 
 ## Getting Started
 
