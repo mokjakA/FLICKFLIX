@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# flickflix
-=======
+
 # FLICKFLIX
->>>>>>> 5690c7c1081d9a48a626afac28e553f49e96f7cc
 
 A new Flutter project.
 
