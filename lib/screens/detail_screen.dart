@@ -62,6 +62,7 @@ class _DetailScreenState extends State<DetailScreen> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       AppBar(
+                        foregroundColor: Colors.white,
                         title: const Row(
                           mainAxisAlignment: MainAxisAlignment.start,
                           children: [

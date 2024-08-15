@@ -20,8 +20,8 @@ class RatingStarsWidget extends StatelessWidget {
             return const Icon(Icons.star_half, color: Colors.amber);
           } else {
             return const Icon(
-              Icons.star,
-              color: Colors.black54,
+              Icons.star_border,
+              color: Colors.amber,
             );
           }
         }));
