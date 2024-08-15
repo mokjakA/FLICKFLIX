@@ -9,7 +9,6 @@ class RatingStarsWidget extends StatelessWidget {
     double normalizedRating = rating / 2; //10까지의 점수로 입력받음
     int fullStars = normalizedRating.floor();
     bool hasHalfStar = (normalizedRating - fullStars) >= 0.5;
-    print('fullStars: $fullStars, hasHalfStar: $hasHalfStar');
 
     return Row(
         mainAxisSize: MainAxisSize.min,
